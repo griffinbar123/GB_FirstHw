@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="send">send</string>
+    <string name="third">Info</string>
+    <string name="bio"> \"Let\'s say someone says, \'In a million years, no one will know the difference\'. The proper response is not \'Well, then everything is meaningless\', but \'any idiot can choose a frame of time in which nothing (present) matters. Talking yourself into irrelevance is not a profound critique of being, it is a cheap trick of the rationalizing mind.\'\"
+        \n\n- Jordan Peterson</string>
+    <string name="desc">AmongUs</string>
+    <string name="desc2">Griffin</string>
+    <string name="name">Edit Message:</string>
+</resources>
